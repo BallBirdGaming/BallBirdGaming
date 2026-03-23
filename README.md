@@ -16,5 +16,6 @@ I've tried a lot of languages, like:
 - java
 
 I've stuck with my lovebird: C++ ❤️  
-A nice balance between low-level ASM and Python/Java  
-<small>I wouldn’t wish anyone — not even my worst enemy — to deal with libraries. (Libraries are my worst enemy for now... 😅)</small>
+A nice balance between low-level ASM and Python/Java
+
+I wouldn’t wish anyone — not even my worst enemy — to deal with libraries. (Libraries are my worst enemy for now... 😅)
