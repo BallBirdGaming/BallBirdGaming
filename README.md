@@ -1,16 +1,20 @@
-## Hello fellow traveller of the internet!
+## 👋 Hello fellow traveller of the internet!
 
-I am BallBird, a bird made out of a tenisball
-I'm also a vibecoder I code when I want to, its fun!
-Started since my 8th and never realy stopped.
+I am BallBird, a bird made out of a tennis ball.
 
-I tried a lot of languages, languages like:
+I'm a self-taught vibecoder: I code when I feel like it, because it's fun.
+
+Started when I was 8 and never really stopped.
+
+I've tried a lot of languages, like:
 - batch
 - luau
 - vbs
-- html
-- css
+- html / css
 - python
 - asm
+- java
 
-But I have stuck to my love bird c++.
+I've stuck with my lovebird: C++ ❤️  
+A nice balance between low-level ASM and Python/Java  
+<small>I wouldn’t wish anyone — not even my worst enemy — to deal with libraries. (Libraries are my worst enemy for now...😅)</small>
