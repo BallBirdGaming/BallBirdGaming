@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello fellow traveller of the internet!
 
-<!--
-**BallBirdGaming/BallBirdGaming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am BallBird, a bird made out of a tenisball
+I'm also a vibecoder I code when I want to, its fun!
+Started since my 8th and never realy stopped.
 
-Here are some ideas to get you started:
+I tried a lot of languages, languages like:
+- batch
+- luau
+- vbs
+- html
+- css
+- python
+- asm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+But I have stuck to my love bird c++.
